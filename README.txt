@@ -28,3 +28,4 @@ Enemy types:
 ASCII art generated from https://patorjk.com/software/taag/
 Assets and game created by Andrew Govoni
 Itch.io link: https://agovoni.itch.io/protocol-breach
+Gameplay video: https://youtu.be/wqT7QS3Wu1w
