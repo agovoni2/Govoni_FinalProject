@@ -12,6 +12,7 @@ Blast the hacker bots trying to infiltrate your network and score points in this
 
 Thank you for checking out my game and downloading it for the optimal experience!
 
+
 Controls:
 WASD to move. Aim with the mouse and press Mouse1 to fire.
 
@@ -22,6 +23,7 @@ Enemy types:
 [Orange enemies] are a rather sedentary sort. They don't move at all and can't be defeated until every other enemy type in the wave is defeated.
 
 [Red enemies] are big brutes that can push you around and deal damage. They take two shots to beat and will bounce off walls. They'll also randomly leave the playing field and despawn. Blast 'em before they leave to get a big boost to your score!
+
 
 ASCII art generated from https://patorjk.com/software/taag/
 Assets and game created by Andrew Govoni
